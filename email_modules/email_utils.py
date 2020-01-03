@@ -3,7 +3,7 @@ import time
 
 ORG_EMAIL   = "@gmail.com"
 FROM_EMAIL  = "joshuamielke" + ORG_EMAIL
-FROM_PWD    = "igluqlbdkiprideo"
+FROM_PWD    = "" # Add password here on local
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT   = 993
 MAILBOX =  "inbox"
